@@ -26,11 +26,11 @@ Now I am still learning some programming languages such as C++ or Ruby and devel
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/archie242"><img src="https://github-readme-stats.vercel.app/api?username=archie242&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="archie242's GitHub stats" /></a>
+<a href="http://www.github.com/archie242"><img src="https://github-readme-stats.vercel.app/api?username=archie242&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="archie242's GitHub stats" /></a>
 
-<a href="http://www.github.com/archie242"><img src="https://github-readme-streak-stats.herokuapp.com/?user=archie242&stroke=6366f1&background=000000&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+<a href="http://www.github.com/archie242"><img src="https://github-readme-streak-stats.herokuapp.com/?user=archie242&stroke=0891b2&background=000000&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="https://github.com/archie242" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archie242&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/archie242" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archie242&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
