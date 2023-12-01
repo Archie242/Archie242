@@ -8,7 +8,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 * 🌍  I'm based in **Okhtyrka, Ukraine**  🌍
 * 🧠  I'm learning now **C, C++, C#, Lua, Rust and Ruby**  💻
-* ⚡  **I don't consider myself a good programmer, but I'm constantly learning to be better** ; **Minecraft is my favourite game**  ⚡
+* ⚡  Fun facts: **I don't consider myself a good programmer, but I'm constantly learning to be better** ; **Minecraft opened the world of Game Developing for me**  ⚡
 
 ### ⚒ My Skills ⚒
 
