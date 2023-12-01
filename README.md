@@ -1,16 +1,16 @@
-Hi there coders ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I`m Max
+Hi there coders ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I`m Max 💻
 ===========================================================================================================================
 
-A start-up Game and Software Developer from Ukraine
+🎮  A start-up Game and Software Developer from Ukraine  
 ---------------------------------------------------
 
-Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects\](Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects
+📄  Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects\](Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects  📄
 
-* 🌍  I'm based in Okhtryrka, Ukraine
-* 🧠  I'm learning now C, C++, C#, Lua, Rust and Rubyu
+* 🌍  I'm based in Okhtryrka, Ukraine  🌍
+* 🧠  I'm learning now C, C++, C#, Lua, Rust and Ruby  💻
 * ⚡  I don't consider myself a good programmer, but I'm constantly learning to be better ; Minecraft is my favourite game  ⚡
 
-### Skills
+### ⚒ Skills ⚒
 
 
 <p align="left">
