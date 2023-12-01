@@ -10,7 +10,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 * 🧠  I'm learning now **C, C++, C#, Lua, Rust and Ruby**  💻
 * ⚡  **I don't consider myself a good programmer, but I'm constantly learning to be better** ; **Minecraft is my favourite game**  ⚡
 
-### ⚒ Skills ⚒
+### ⚒ My Skills ⚒
 
 
 <p align="left">
@@ -22,7 +22,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 
 
-### Socials
+### 📞  Socials  ⌨️
 
 <p align="left"> <a href="https://discord.com/users/593002022068944905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/archie242" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
