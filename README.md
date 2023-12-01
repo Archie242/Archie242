@@ -7,7 +7,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 📄  Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects\](Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects  📄
 
 * 🌍  I'm based in Okhtyrka, Ukraine  🌍
-* 🧠  I'm learning now ** C, C++, C#, Lua, Rust and Ruby **  💻
+* 🧠  I'm learning now **C, C++, C#, Lua, Rust and Ruby**  💻
 * ⚡  I don't consider myself a good programmer, but I'm constantly learning to be better ; Minecraft is my favourite game  ⚡
 
 ### ⚒ Skills ⚒
