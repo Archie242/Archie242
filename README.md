@@ -22,6 +22,8 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <p align="left"> <a href="https://discord.com/users/593002022068944905" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/archie242" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38F7C2&random=true&width=435&lines=I%60m+Archie242;Minecraft;Code+it!;Bruh;Damn%2C+I%60ve+a+bug;You+need+to+push+it+to+GitHub;Mushrooms%3F;Idk+how+to+fix+it;C%2B%2B+or+Python%3F;Hack+the+planet)](https://git.io/typing-svg)
+
 ### Badges
 
 <b>My GitHub Stats</b>
