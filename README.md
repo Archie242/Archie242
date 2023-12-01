@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi there coders👋, I'm Max</h1>
 <h3 align="center">A start-up Game and Software Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archie242&label=Profile%20views&color=0e75b6&style=flat" alt="archie242" /> </p>
