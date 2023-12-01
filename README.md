@@ -7,7 +7,8 @@
 
 - 📄 Know about my experiences [Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects](Now I am still learning some programming languages such as C++ or Ruby and developing small projects, but soon I want to work on large-scale projects)
 
-- ⚡ Fun facts: **I don't consider myself a good programmer, but I'm constantly learning to be better** | **Minecraft is my favourite game** ⚡
+- ⚡ Fun facts: **I don't consider myself a good programmer, but I'm constantly learning to be better**
+                 **Minecraft is my favourite game** ⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
