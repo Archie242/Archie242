@@ -17,7 +17,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 ###  ⚒  Skills and Tools I`ve used in the past ⚒
 
-[![My Skills](https://skillicons.dev/icons?i=figma,haxe,haxeflixel,html,css,react,vue,postman,selenium,wordpress,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,haxe,haxeflixel,html,css,react,vue,postman,selenium,wordpress,pr)](https://skillicons.dev)   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="50" height="50"/> </a>
 
 
 ### 📞  Socials  ⌨️
