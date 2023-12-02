@@ -10,10 +10,14 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 * 🧠  I'm learning now **C, C++, C#, Lua, Rust and Ruby**  💻
 * ⚡  Fun facts: **I don't consider myself a good programmer, but I'm constantly learning to be better** ; **Minecraft opened the world of Game Developing for me**  ⚡
 
+
 ### ⚒ My Skills ⚒
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,js,nodejs,lua,ruby,rust,py,ps,visualstudio,vscode,unreal)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,js,lua,ruby,rust,py,ps,visualstudio,vscode,unreal)](https://skillicons.dev)
+###  ⚒  Skills and Tools I`ve used in the past ⚒
+
+[![My Skills](https://skillicons.dev/icons?i=figma,haxe,haxeflixel,html,css,react,postman,selenium,wordpress)](https://skillicons.dev)
 
 
 ### 📞  Socials  ⌨️
