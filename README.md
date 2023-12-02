@@ -13,7 +13,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 ### ⚒ My Skills ⚒
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,js,nodejs,lua,ruby,rust,py,ps,visualstudio,vscode,unreal,github,discord)](https://skillicons.dev) <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,js,nodejs,lua,ruby,rust,py,ps,visualstudio,vscode,unreal,github,discord)](https://skillicons.dev) <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" width="50" height="50" /></a>
 
 ###  ⚒  Skills and Tools I`ve used in the past ⚒
 
