@@ -17,7 +17,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 
 ###  ⚒  Skills and Tools I`ve used in the past ⚒
 
-[![My Skills](https://skillicons.dev/icons?i=figma,haxe,haxeflixel,html,css,react,postman,selenium,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,haxe,haxeflixel,html,css,react,vue,postman,selenium,wordpress,pr)](https://skillicons.dev)
 
 
 ### 📞  Socials  ⌨️
