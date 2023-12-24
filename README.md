@@ -11,7 +11,7 @@ Hi there coders ! ![](https://user-images.githubusercontent.com/18350557/1763097
 * ⚡  Fun facts: **I don't consider myself a good programmer, but I'm constantly learning to be better** ; **Minecraft opened the world of Game Developing for me**  ⚡
 
 
-### ⚒ My Skills | Languages I use now ⚒
+### ⚒ My Skills | Languages I use(learn) now ⚒
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,js,nodejs,lua,ruby,rust,py,ps,visualstudio,vscode,unreal,github,discord)](https://skillicons.dev)
 
